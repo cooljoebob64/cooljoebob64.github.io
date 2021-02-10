@@ -3162,7 +3162,7 @@ body.is-preload #sidebar nav ul li {
   background-image: url("images/profile.jpeg");
   background-position: top right;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 #intro p {
   font-size: 1.25em;
@@ -3184,7 +3184,7 @@ body.is-preload #sidebar nav ul li {
 }
 
 #intro .inner {
-  text-shadow: 0.2em 0.2em 0.5em #000000;
+  text-shadow: 0.2em 0.2em 0.1em #000000;
 }
 
 /*# sourceMappingURL=main.css.map */
